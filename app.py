@@ -53,4 +53,6 @@ if st.button("Recommend"):
     st.subheader("Recommended Movies:")
 
     for movie in results:
+
         st.write(movie)
+
