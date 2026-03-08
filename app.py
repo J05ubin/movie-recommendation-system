@@ -55,4 +55,3 @@ if st.button("Recommend"):
     for movie in results:
 
         st.write(movie)
-
